@@ -43,7 +43,7 @@ Excel (cleaning and validation) | MySQL (analysis) | Power BI (dashboard and KPI
 | `dashboard.png` | Dashboard screenshot |
 
 ## Dataset
-Source: Kaggle (retail sales dataset)
+[Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) from Kaggle (by vivek468)
 
 ## How to Open
 Download `Retail_Sales_Dashboard.pbix` and open it in Power BI Desktop.
