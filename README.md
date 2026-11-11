@@ -2,7 +2,7 @@
 
 An end-to-end analysis of retail sales data: cleaning in Excel, analysis in MySQL, and an interactive Power BI dashboard that shows where the business earns money and where discounts hurt profit.
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Business Questions
 - How much did the business sell, and how much profit did it make?
